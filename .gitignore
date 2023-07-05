@@ -1,0 +1,10 @@
+*.np
+*.npz
+output*
+common/utils/human_model_files
+__pycache__
+**/*.pt
+*.tar
+*.tar
+*.zip
+.idea
